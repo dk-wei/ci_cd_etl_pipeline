@@ -1,2 +1,3 @@
 # ci_cd_etl_pipeline
-workflow management system tool script, such as Airflow, Prefect, etc
+
+This repo stores mainly Data Engineering scripts for some workflow management tool, such as Airflow, Prefect, etc
